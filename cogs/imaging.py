@@ -14,7 +14,7 @@ def getimageembed(url):
 class Imaging(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.api = "http://138.201.100.162:65535/api/"
+        self.api = "http://192.99.253.209:8000/api/"
 
     @commands.command()
     async def abort(self, ctx):
