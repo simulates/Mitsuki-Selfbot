@@ -1,0 +1,45 @@
+{
+    "Snipers": {
+        "GiveawaySniper": {
+            "emoji": ":tada:",
+            "id": 294882584201003009,
+            "snipe": true
+        },
+        "NitroSniper": true,
+        "PolluxSniper": {
+            "id": 271394014358405121,
+            "snipe": true
+        },
+        "SlotbotSniper": {
+            "id": 346353957029019648,
+            "snipe": true
+        }
+    },
+    "Socials": {
+        "age": "",
+        "aliases": "",
+        "discord": "",
+        "github": "",
+        "location": "",
+        "name": "",
+        "snapchat": "",
+        "telegram": "",
+        "soundcloud": ""
+    },
+    "duplicates": [
+        ""
+    ],
+    "leakcheck-key": "",
+    "nitro_webhook": "nitro webhook here",
+    "password": "",
+    "prefix": "$",
+    "statuses": [
+        {
+            "delay": 5,
+            "state": ""
+        }
+    ],
+    "stream-cycle": true,
+    "token": "",
+    "twitchURL": "https://twitch.tv/?"
+}
