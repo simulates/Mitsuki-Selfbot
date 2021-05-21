@@ -22,4 +22,4 @@ Crypto Command is one of the biggest out there, planning on expanding
 
 shout out @ilyrookie for the sexy backend we used :D
 
-<p style="text-align: center;"align="center">=> <a href="https://superfici.al/uwu/AxsanlRq" </p>
+![alt text](https://superfici.al/uwu/AxsanlRq)
